@@ -1,0 +1,1 @@
+C:\Users\Madhav Paudel\Documents\Visual Studio 2015\Projects\AudioPlayer\AudioPlayer\AudioPlayer.csproj;x86
